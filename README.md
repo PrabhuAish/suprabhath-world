@@ -39,7 +39,7 @@
 >- IDE :VS Code, Visual Studio 2019
 >### Coding Sites:
 >-  <a href="https://leetcode.com/PrabhuAishwarya/"> Leet Code </a>
->-  <a href="https://auth.geeksforgeeks.org/user/prabhuaishwaryaslearn/"> GeekForGeek </a>
+>-  
 
 <hr>
 <h2>Some More Information</h2>
